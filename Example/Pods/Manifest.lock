@@ -1,0 +1,16 @@
+PODS:
+  - RealmContent (0.1.0)
+
+DEPENDENCIES:
+  - RealmContent (from `../`)
+
+EXTERNAL SOURCES:
+  RealmContent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RealmContent: eaf84382b1067022811580a0e5d28c62df837ad5
+
+PODFILE CHECKSUM: 9f50a08579e9b4ff2a5b5357e27c04a21a29380e
+
+COCOAPODS: 1.2.1
